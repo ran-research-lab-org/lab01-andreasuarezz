@@ -1,4 +1,5 @@
-// CCOM 3033 - Lab 01
+// Andrea Suarez Rosado
+// CCOM 3033-001
 
 #include <iostream>
 
